@@ -69,6 +69,8 @@ end
 gem "tailwindcss-rails", "~> 2.3"
 
 
+
+# Making App Production Ready
 group :production do
   gem "pg"
   gem "rails_12factor"
